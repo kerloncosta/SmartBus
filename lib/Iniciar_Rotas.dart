@@ -76,7 +76,7 @@ class _IniciarRotasState extends State<IniciarRotas> {
         ),
       ),
       body: Center(
-        child: Column(mainAxisAlignment: MainAxisAlignment.center, children: [
+        child: Column(mainAxisAlignment: MainAxisAlignment.center, children:[
           Icon(
             Icons.account_box_outlined,
             color: Colors.white,
