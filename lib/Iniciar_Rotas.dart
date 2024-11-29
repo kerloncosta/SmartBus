@@ -79,7 +79,7 @@ class _IniciarRotasState extends State<IniciarRotas> {
         child: Column(mainAxisAlignment: MainAxisAlignment.center, children: [
           Icon(
             Icons.account_box_outlined,
-            color: Colors.white,
+            color: Colors.greenAccent,
             size: 100,
           ),
           SizedBox(height: 10),
